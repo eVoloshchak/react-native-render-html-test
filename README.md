@@ -1,1 +1,3 @@
 # react-native-render-html-test
+
+https://redsky-dev.azurewebsites.net/password/set?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJDbGllbnRJZCI6IjExMTExMTExLTExMTEtMTExMS0xMTExLTExMTExMTExMTExMSIsIlVzZXJJZCI6IjIzYzgxMDY1LWU0NGMtNGVlYy1iNzRmLWE1ZGExYzAxNzExMyIsImV4cCI6MTY2MTc2MDAzMCwiaWF0IjoxNjYxMTU1MjMwfQ.SKT-IyYFyG5sfqMUrufCOXNnP8Y9c3T6l25qiVUcYDY
